@@ -1,0 +1,25 @@
+{
+  "User_Name":"Anand Ramasamy",
+  "database":[
+    {
+      "title":"to do",
+      "minimized": "False",
+      "tasks": {}
+    },
+    {
+      "title":"doing",
+      "minimized": "False",
+      "tasks": {}
+    },
+    {
+      "title":"done",
+      "minimized": "False",
+      "tasks": {}
+    },
+    {
+      "title":"notes",
+      "minimized": "True",
+      "tasks": {}
+    }
+  ]
+}

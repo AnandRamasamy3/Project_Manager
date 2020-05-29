@@ -1,0 +1,18 @@
+{
+  "User_Name":[45,168,216],
+  "user_title":[45,168,216],
+  "background":[42,43,45],
+  "border_lines":[45,168,216],
+  "bar_buttons":[0,200,10],
+  "delete_buttons":[217,80,78],
+  "minimize_button":[150,255,0],
+  "move_left":[255,255,0],
+  "move_right":[255,255,0],
+  "minimize":[45,168,216],
+  "column_title":[45,168,216],
+  "task_title":[45,168,216],
+  "task_description":[45,168,216],
+  "task_time":[45,168,216],
+  "cursor_bar":[45,168,216],
+  "white":[255,255,255]
+}
